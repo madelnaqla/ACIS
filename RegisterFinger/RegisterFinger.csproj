@@ -50,7 +50,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Interop.zkemkeeper">
-      <HintPath>..\..\..\..\Card Management\bin\x64\Release\Interop.zkemkeeper.dll</HintPath>
+      <HintPath>D:\Adel\ACIS\ACIS\ZKMachines\bin\Debug\Interop.zkemkeeper.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />
